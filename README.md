@@ -14,7 +14,7 @@ Interested and goal-oriented Frontend Developer with experience in programming i
   Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
   checking a number for primality
 * [GenDiff](https://github.com/MikeDruzhin/GenDiff)
-  Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
+  **Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
 * [RSS Agregator](https://frontend-project-11-blush-gamma.vercel.app/)
   This is a service for aggregating RSS feeds, with which you can read a variety of sources, for example, blogs. It allows you to add an unlimited number of RSS feeds, updates them itself and adds new       entries to the general feed.
 
