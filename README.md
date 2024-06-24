@@ -8,6 +8,7 @@ Interested and goal-oriented Frontend Developer with experience in programming i
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on projects that can benefit people and make the world better
 * ⚡  I love playing sports and dream of combining sports and programming in my future projects
+* 📋  This is my [CV](https://cv.hexlet.io/ru/resumes/3527)
 
 ### My projects
 * [Brain Games](https://github.com/MikeDruzhin/Brain-Games)
