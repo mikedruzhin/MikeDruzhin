@@ -9,6 +9,11 @@ Interested and goal-oriented Frontend Developer with experience in programming i
 * 🤝  I'm open to collaborating on projects that can benefit people and make the world better
 * ⚡  I love playing sports and dream of combining sports and programming in my future projects
 
+### My projects
+* [Brain Games](https://doka.guide "Энциклопедия про web-dev")
+* [GenDiff](https://doka.guide "Энциклопедия про web-dev")
+* [RSS Agregator](https://frontend-project-11-blush-gamma.vercel.app/)
+
 ### Skills
 
 <p align="left">
@@ -18,4 +23,4 @@ Interested and goal-oriented Frontend Developer with experience in programming i
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MikeDruzhin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mike.druzhin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
-[<img alt="alt_text" width="32" height="32" src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" />](https://www.google.com/)
+
