@@ -19,13 +19,13 @@ Interested and goal-oriented Frontend Developer with experience in programming i
 ### My projects
 * [Brain Games](https://github.com/MikeDruzhin/Brain-Games)
 
-  <p>Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
-  checking a number for primality.</p>
+  *<p>Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
+  checking a number for primality.</p>*
 
 * [GenDiff](https://github.com/MikeDruzhin/GenDiff)
-  <p>Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.</p>
+  *<p>Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.</p>*
 * [RSS Agregator](https://frontend-project-11-blush-gamma.vercel.app/)
-  <p>This is a service for aggregating RSS feeds, with which you can read a variety of sources, for example, blogs. It allows you to add an unlimited number of RSS feeds, updates them itself and adds new    entries to the general feed.</p>
+  *<p>This is a service for aggregating RSS feeds, with which you can read a variety of sources, for example, blogs. It allows you to add an unlimited number of RSS feeds, updates them itself and adds new    entries to the general feed.</p>*
 
 ### Socials
 
