@@ -1,4 +1,4 @@
-Hi, I'm Mike 👋:computer:
+Hi, I'm Mike 👋💻
 =============================
 
 Interested and goal-oriented Frontend Developer with experience in programming industrial controllers. My approach to development includes a desire for constant self-development and learning new technologies. My goal is to create high quality and user-friendly websites and web applications that meet customer needs and improve business quality
@@ -18,3 +18,4 @@ Interested and goal-oriented Frontend Developer with experience in programming i
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MikeDruzhin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mike.druzhin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+[<img alt="alt_text" width="32" height="32" src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" />](https://www.google.com/)
