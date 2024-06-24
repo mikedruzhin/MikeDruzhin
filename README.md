@@ -12,8 +12,8 @@ Interested and goal-oriented Frontend Developer with experience in programming i
 ### My projects
 * [Brain Games](https://github.com/MikeDruzhin/Brain-Games)
 
->Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
-checking a number for primality.
+<p>Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers,     
+checking a number for primality.</p>
 
 * [GenDiff](https://github.com/MikeDruzhin/GenDiff)
 >Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
