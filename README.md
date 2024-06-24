@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%006400&lines=Hi,+I'm+Mike+👋)](https://git.io/typing-svg)
+Hi 👋 My name is Mike Druzhin
+=============================
 
 Interested and goal-oriented Frontend Developer with experience in programming industrial controllers. My approach to development includes a desire for constant self-development and learning new technologies. My goal is to create high quality and user-friendly websites and web applications that meet customer needs and improve business quality
 
